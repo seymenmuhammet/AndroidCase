@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AnimalFood</string>
+    <string name="customer1">Merhaba !</string>
+    <string name="customer2">Müşteri temsilciniz burada.</string>
+    <string name="anaBaslik">Pet Kategorisi</string>
+    <string name="chip1">Köpek</string>
+    <string name="chip2">Kedi</string>
+    <string name="chip3">Kuş</string>
+    <string name="chip4">Tavşan</string>
+    <string name="mama1">70 TL</string>
+    <string name="mama2">35 TL</string>
+    <string name="teslim1">Yarın</string>
+    <string name="teslim2">Teslim</string>
+    <string name="sepet">SEPETE EKLE</string>
+
+
+
+</resources>

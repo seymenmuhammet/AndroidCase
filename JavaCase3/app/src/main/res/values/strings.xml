@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AnimalFood</string>
+    <string name="customer1">Hello !</string>
+    <string name="customer2">UI/UX designer is here.</string>
+    <string name="anaBaslik">Pet Category</string>
+    <string name="chip1">Dog</string>
+    <string name="chip2">Cat</string>
+    <string name="chip3">Bird</string>
+    <string name="chip4">Rabbit</string>
+    <string name="mama1">3.98$</string>
+    <string name="mama2">1.98$</string>
+    <string name="teslim1">Tomorrow</string>
+    <string name="teslim2">Delivery</string>
+    <string name="sepet">ADD TO CART</string>
+
+
+
+</resources>
